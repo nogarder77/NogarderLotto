@@ -5,7 +5,7 @@ Compound-Dirichlet-Multinomial(CDM) 통계 모델을 활용하여 나눔로또 6
 ## 주요 기능
 
 - CDM 확률 모델을 활용한 로또 번호 예측 알고리즘 구현
-- 나눔복권 웹사이트에서 과거 당첨 번호 데이터 수집 자동화
+- 동행복권 웹사이트에서 과거 당첨 번호 데이터 수집 자동화
 - 신뢰성 높은 번호 조합 제안 (기본값: 5개 게임)
 - 번호별 확률 시각화 및 결과 저장 기능
 
@@ -20,7 +20,7 @@ Compound-Dirichlet-Multinomial(CDM) 통계 모델을 활용하여 나눔로또 6
 
 1. 저장소 클론
 ```bash
-git clone https://github.com/yourusername/NogarderLotto.git
+git clone https://github.com/nogarder77/NogarderLotto.git
 cd NogarderLotto
 ```
 
